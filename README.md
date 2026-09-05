@@ -13,6 +13,7 @@ distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
 
 print(f"The distance between the two points is: {distance:.2f}")
 
+
 #janne alexys c. magallosa
 #8-Sampaguita
 
